@@ -1,0 +1,577 @@
+Size,Type,Algorithm,Time_microseconds
+500,Random,Standard Merge Sort,1097
+500,Random,Hybrid Merge+Insertion Sort,257
+500,Reverse Sorted,Standard Merge Sort,1037
+500,Reverse Sorted,Hybrid Merge+Insertion Sort,429
+500,Nearly Sorted,Standard Merge Sort,1533
+500,Nearly Sorted,Hybrid Merge+Insertion Sort,202
+600,Random,Standard Merge Sort,1352
+600,Random,Hybrid Merge+Insertion Sort,323
+600,Reverse Sorted,Standard Merge Sort,1264
+600,Reverse Sorted,Hybrid Merge+Insertion Sort,282
+600,Nearly Sorted,Standard Merge Sort,1218
+600,Nearly Sorted,Hybrid Merge+Insertion Sort,238
+700,Random,Standard Merge Sort,2163
+700,Random,Hybrid Merge+Insertion Sort,350
+700,Reverse Sorted,Standard Merge Sort,1481
+700,Reverse Sorted,Hybrid Merge+Insertion Sort,315
+700,Nearly Sorted,Standard Merge Sort,1486
+700,Nearly Sorted,Hybrid Merge+Insertion Sort,277
+800,Random,Standard Merge Sort,1669
+800,Random,Hybrid Merge+Insertion Sort,365
+800,Reverse Sorted,Standard Merge Sort,1587
+800,Reverse Sorted,Hybrid Merge+Insertion Sort,338
+800,Nearly Sorted,Standard Merge Sort,1669
+800,Nearly Sorted,Hybrid Merge+Insertion Sort,323
+900,Random,Standard Merge Sort,2099
+900,Random,Hybrid Merge+Insertion Sort,509
+900,Reverse Sorted,Standard Merge Sort,1844
+900,Reverse Sorted,Hybrid Merge+Insertion Sort,419
+900,Nearly Sorted,Standard Merge Sort,1884
+900,Nearly Sorted,Hybrid Merge+Insertion Sort,316
+1000,Random,Standard Merge Sort,2184
+1000,Random,Hybrid Merge+Insertion Sort,534
+1000,Reverse Sorted,Standard Merge Sort,2240
+1000,Reverse Sorted,Hybrid Merge+Insertion Sort,480
+1000,Nearly Sorted,Standard Merge Sort,2148
+1000,Nearly Sorted,Hybrid Merge+Insertion Sort,442
+1100,Random,Standard Merge Sort,2570
+1100,Random,Hybrid Merge+Insertion Sort,601
+1100,Reverse Sorted,Standard Merge Sort,3022
+1100,Reverse Sorted,Hybrid Merge+Insertion Sort,556
+1100,Nearly Sorted,Standard Merge Sort,2372
+1100,Nearly Sorted,Hybrid Merge+Insertion Sort,507
+1200,Random,Standard Merge Sort,2659
+1200,Random,Hybrid Merge+Insertion Sort,672
+1200,Reverse Sorted,Standard Merge Sort,2456
+1200,Reverse Sorted,Hybrid Merge+Insertion Sort,560
+1200,Nearly Sorted,Standard Merge Sort,2440
+1200,Nearly Sorted,Hybrid Merge+Insertion Sort,504
+1300,Random,Standard Merge Sort,2847
+1300,Random,Hybrid Merge+Insertion Sort,683
+1300,Reverse Sorted,Standard Merge Sort,2604
+1300,Reverse Sorted,Hybrid Merge+Insertion Sort,597
+1300,Nearly Sorted,Standard Merge Sort,2627
+1300,Nearly Sorted,Hybrid Merge+Insertion Sort,539
+1400,Random,Standard Merge Sort,2941
+1400,Random,Hybrid Merge+Insertion Sort,709
+1400,Reverse Sorted,Standard Merge Sort,2822
+1400,Reverse Sorted,Hybrid Merge+Insertion Sort,754
+1400,Nearly Sorted,Standard Merge Sort,2897
+1400,Nearly Sorted,Hybrid Merge+Insertion Sort,570
+1500,Random,Standard Merge Sort,3215
+1500,Random,Hybrid Merge+Insertion Sort,753
+1500,Reverse Sorted,Standard Merge Sort,3099
+1500,Reverse Sorted,Hybrid Merge+Insertion Sort,673
+1500,Nearly Sorted,Standard Merge Sort,3288
+1500,Nearly Sorted,Hybrid Merge+Insertion Sort,605
+1600,Random,Standard Merge Sort,3392
+1600,Random,Hybrid Merge+Insertion Sort,801
+1600,Reverse Sorted,Standard Merge Sort,3216
+1600,Reverse Sorted,Hybrid Merge+Insertion Sort,713
+1600,Nearly Sorted,Standard Merge Sort,3265
+1600,Nearly Sorted,Hybrid Merge+Insertion Sort,607
+1700,Random,Standard Merge Sort,3908
+1700,Random,Hybrid Merge+Insertion Sort,983
+1700,Reverse Sorted,Standard Merge Sort,3712
+1700,Reverse Sorted,Hybrid Merge+Insertion Sort,788
+1700,Nearly Sorted,Standard Merge Sort,3835
+1700,Nearly Sorted,Hybrid Merge+Insertion Sort,782
+1800,Random,Standard Merge Sort,5445
+1800,Random,Hybrid Merge+Insertion Sort,1239
+1800,Reverse Sorted,Standard Merge Sort,5196
+1800,Reverse Sorted,Hybrid Merge+Insertion Sort,1102
+1800,Nearly Sorted,Standard Merge Sort,4572
+1800,Nearly Sorted,Hybrid Merge+Insertion Sort,749
+1900,Random,Standard Merge Sort,4415
+1900,Random,Hybrid Merge+Insertion Sort,998
+1900,Reverse Sorted,Standard Merge Sort,4971
+1900,Reverse Sorted,Hybrid Merge+Insertion Sort,1354
+1900,Nearly Sorted,Standard Merge Sort,5993
+1900,Nearly Sorted,Hybrid Merge+Insertion Sort,1428
+2000,Random,Standard Merge Sort,5226
+2000,Random,Hybrid Merge+Insertion Sort,1162
+2000,Reverse Sorted,Standard Merge Sort,4046
+2000,Reverse Sorted,Hybrid Merge+Insertion Sort,976
+2000,Nearly Sorted,Standard Merge Sort,4778
+2000,Nearly Sorted,Hybrid Merge+Insertion Sort,1137
+2100,Random,Standard Merge Sort,4728
+2100,Random,Hybrid Merge+Insertion Sort,1276
+2100,Reverse Sorted,Standard Merge Sort,4880
+2100,Reverse Sorted,Hybrid Merge+Insertion Sort,1221
+2100,Nearly Sorted,Standard Merge Sort,5597
+2100,Nearly Sorted,Hybrid Merge+Insertion Sort,1079
+2200,Random,Standard Merge Sort,5151
+2200,Random,Hybrid Merge+Insertion Sort,1559
+2200,Reverse Sorted,Standard Merge Sort,6036
+2200,Reverse Sorted,Hybrid Merge+Insertion Sort,1356
+2200,Nearly Sorted,Standard Merge Sort,4747
+2200,Nearly Sorted,Hybrid Merge+Insertion Sort,1054
+2300,Random,Standard Merge Sort,5411
+2300,Random,Hybrid Merge+Insertion Sort,1363
+2300,Reverse Sorted,Standard Merge Sort,4748
+2300,Reverse Sorted,Hybrid Merge+Insertion Sort,1158
+2300,Nearly Sorted,Standard Merge Sort,4782
+2300,Nearly Sorted,Hybrid Merge+Insertion Sort,1094
+2400,Random,Standard Merge Sort,5376
+2400,Random,Hybrid Merge+Insertion Sort,1377
+2400,Reverse Sorted,Standard Merge Sort,5312
+2400,Reverse Sorted,Hybrid Merge+Insertion Sort,1196
+2400,Nearly Sorted,Standard Merge Sort,5122
+2400,Nearly Sorted,Hybrid Merge+Insertion Sort,1086
+2500,Random,Standard Merge Sort,5340
+2500,Random,Hybrid Merge+Insertion Sort,1400
+2500,Reverse Sorted,Standard Merge Sort,5030
+2500,Reverse Sorted,Hybrid Merge+Insertion Sort,1197
+2500,Nearly Sorted,Standard Merge Sort,6132
+2500,Nearly Sorted,Hybrid Merge+Insertion Sort,1170
+2600,Random,Standard Merge Sort,5953
+2600,Random,Hybrid Merge+Insertion Sort,1805
+2600,Reverse Sorted,Standard Merge Sort,7033
+2600,Reverse Sorted,Hybrid Merge+Insertion Sort,1525
+2600,Nearly Sorted,Standard Merge Sort,5836
+2600,Nearly Sorted,Hybrid Merge+Insertion Sort,1316
+2700,Random,Standard Merge Sort,7167
+2700,Random,Hybrid Merge+Insertion Sort,1931
+2700,Reverse Sorted,Standard Merge Sort,7022
+2700,Reverse Sorted,Hybrid Merge+Insertion Sort,1676
+2700,Nearly Sorted,Standard Merge Sort,6964
+2700,Nearly Sorted,Hybrid Merge+Insertion Sort,1470
+2800,Random,Standard Merge Sort,7649
+2800,Random,Hybrid Merge+Insertion Sort,2173
+2800,Reverse Sorted,Standard Merge Sort,7747
+2800,Reverse Sorted,Hybrid Merge+Insertion Sort,1809
+2800,Nearly Sorted,Standard Merge Sort,7586
+2800,Nearly Sorted,Hybrid Merge+Insertion Sort,1550
+2900,Random,Standard Merge Sort,7492
+2900,Random,Hybrid Merge+Insertion Sort,1567
+2900,Reverse Sorted,Standard Merge Sort,6280
+2900,Reverse Sorted,Hybrid Merge+Insertion Sort,1351
+2900,Nearly Sorted,Standard Merge Sort,5960
+2900,Nearly Sorted,Hybrid Merge+Insertion Sort,1219
+3000,Random,Standard Merge Sort,6827
+3000,Random,Hybrid Merge+Insertion Sort,1676
+3000,Reverse Sorted,Standard Merge Sort,7350
+3000,Reverse Sorted,Hybrid Merge+Insertion Sort,3600
+3000,Nearly Sorted,Standard Merge Sort,8912
+3000,Nearly Sorted,Hybrid Merge+Insertion Sort,2065
+3100,Random,Standard Merge Sort,10166
+3100,Random,Hybrid Merge+Insertion Sort,2236
+3100,Reverse Sorted,Standard Merge Sort,9961
+3100,Reverse Sorted,Hybrid Merge+Insertion Sort,2119
+3100,Nearly Sorted,Standard Merge Sort,8636
+3100,Nearly Sorted,Hybrid Merge+Insertion Sort,1576
+3200,Random,Standard Merge Sort,9073
+3200,Random,Hybrid Merge+Insertion Sort,2256
+3200,Reverse Sorted,Standard Merge Sort,9573
+3200,Reverse Sorted,Hybrid Merge+Insertion Sort,2037
+3200,Nearly Sorted,Standard Merge Sort,8736
+3200,Nearly Sorted,Hybrid Merge+Insertion Sort,1682
+3300,Random,Standard Merge Sort,8903
+3300,Random,Hybrid Merge+Insertion Sort,2525
+3300,Reverse Sorted,Standard Merge Sort,8331
+3300,Reverse Sorted,Hybrid Merge+Insertion Sort,1901
+3300,Nearly Sorted,Standard Merge Sort,9724
+3300,Nearly Sorted,Hybrid Merge+Insertion Sort,1990
+3400,Random,Standard Merge Sort,10845
+3400,Random,Hybrid Merge+Insertion Sort,1928
+3400,Reverse Sorted,Standard Merge Sort,7967
+3400,Reverse Sorted,Hybrid Merge+Insertion Sort,2275
+3400,Nearly Sorted,Standard Merge Sort,10482
+3400,Nearly Sorted,Hybrid Merge+Insertion Sort,1610
+3500,Random,Standard Merge Sort,8617
+3500,Random,Hybrid Merge+Insertion Sort,1845
+3500,Reverse Sorted,Standard Merge Sort,7095
+3500,Reverse Sorted,Hybrid Merge+Insertion Sort,1636
+3500,Nearly Sorted,Standard Merge Sort,9334
+3500,Nearly Sorted,Hybrid Merge+Insertion Sort,1428
+3600,Random,Standard Merge Sort,10884
+3600,Random,Hybrid Merge+Insertion Sort,2052
+3600,Reverse Sorted,Standard Merge Sort,8604
+3600,Reverse Sorted,Hybrid Merge+Insertion Sort,2556
+3600,Nearly Sorted,Standard Merge Sort,10293
+3600,Nearly Sorted,Hybrid Merge+Insertion Sort,1441
+3700,Random,Standard Merge Sort,8225
+3700,Random,Hybrid Merge+Insertion Sort,1933
+3700,Reverse Sorted,Standard Merge Sort,7620
+3700,Reverse Sorted,Hybrid Merge+Insertion Sort,1787
+3700,Nearly Sorted,Standard Merge Sort,7660
+3700,Nearly Sorted,Hybrid Merge+Insertion Sort,1493
+3800,Random,Standard Merge Sort,8895
+3800,Random,Hybrid Merge+Insertion Sort,2466
+3800,Reverse Sorted,Standard Merge Sort,9865
+3800,Reverse Sorted,Hybrid Merge+Insertion Sort,2237
+3800,Nearly Sorted,Standard Merge Sort,9536
+3800,Nearly Sorted,Hybrid Merge+Insertion Sort,1547
+3900,Random,Standard Merge Sort,8966
+3900,Random,Hybrid Merge+Insertion Sort,2607
+3900,Reverse Sorted,Standard Merge Sort,11888
+3900,Reverse Sorted,Hybrid Merge+Insertion Sort,2018
+3900,Nearly Sorted,Standard Merge Sort,12060
+3900,Nearly Sorted,Hybrid Merge+Insertion Sort,1735
+4000,Random,Standard Merge Sort,9245
+4000,Random,Hybrid Merge+Insertion Sort,3047
+4000,Reverse Sorted,Standard Merge Sort,8417
+4000,Reverse Sorted,Hybrid Merge+Insertion Sort,2011
+4000,Nearly Sorted,Standard Merge Sort,8590
+4000,Nearly Sorted,Hybrid Merge+Insertion Sort,1885
+4100,Random,Standard Merge Sort,9716
+4100,Random,Hybrid Merge+Insertion Sort,3397
+4100,Reverse Sorted,Standard Merge Sort,14366
+4100,Reverse Sorted,Hybrid Merge+Insertion Sort,3193
+4100,Nearly Sorted,Standard Merge Sort,9772
+4100,Nearly Sorted,Hybrid Merge+Insertion Sort,2468
+4200,Random,Standard Merge Sort,13277
+4200,Random,Hybrid Merge+Insertion Sort,2847
+4200,Reverse Sorted,Standard Merge Sort,8655
+4200,Reverse Sorted,Hybrid Merge+Insertion Sort,2322
+4200,Nearly Sorted,Standard Merge Sort,8703
+4200,Nearly Sorted,Hybrid Merge+Insertion Sort,2139
+4300,Random,Standard Merge Sort,9890
+4300,Random,Hybrid Merge+Insertion Sort,2641
+4300,Reverse Sorted,Standard Merge Sort,8762
+4300,Reverse Sorted,Hybrid Merge+Insertion Sort,2258
+4300,Nearly Sorted,Standard Merge Sort,8903
+4300,Nearly Sorted,Hybrid Merge+Insertion Sort,2193
+4400,Random,Standard Merge Sort,11565
+4400,Random,Hybrid Merge+Insertion Sort,2838
+4400,Reverse Sorted,Standard Merge Sort,19308
+4400,Reverse Sorted,Hybrid Merge+Insertion Sort,3267
+4400,Nearly Sorted,Standard Merge Sort,9596
+4400,Nearly Sorted,Hybrid Merge+Insertion Sort,2685
+4500,Random,Standard Merge Sort,10872
+4500,Random,Hybrid Merge+Insertion Sort,2901
+4500,Reverse Sorted,Standard Merge Sort,9141
+4500,Reverse Sorted,Hybrid Merge+Insertion Sort,2333
+4500,Nearly Sorted,Standard Merge Sort,9575
+4500,Nearly Sorted,Hybrid Merge+Insertion Sort,2221
+4600,Random,Standard Merge Sort,10400
+4600,Random,Hybrid Merge+Insertion Sort,2760
+4600,Reverse Sorted,Standard Merge Sort,9390
+4600,Reverse Sorted,Hybrid Merge+Insertion Sort,3439
+4600,Nearly Sorted,Standard Merge Sort,10133
+4600,Nearly Sorted,Hybrid Merge+Insertion Sort,2294
+4700,Random,Standard Merge Sort,12173
+4700,Random,Hybrid Merge+Insertion Sort,3163
+4700,Reverse Sorted,Standard Merge Sort,10579
+4700,Reverse Sorted,Hybrid Merge+Insertion Sort,2467
+4700,Nearly Sorted,Standard Merge Sort,10525
+4700,Nearly Sorted,Hybrid Merge+Insertion Sort,2315
+4800,Random,Standard Merge Sort,10782
+4800,Random,Hybrid Merge+Insertion Sort,3073
+4800,Reverse Sorted,Standard Merge Sort,14002
+4800,Reverse Sorted,Hybrid Merge+Insertion Sort,3743
+4800,Nearly Sorted,Standard Merge Sort,13051
+4800,Nearly Sorted,Hybrid Merge+Insertion Sort,3151
+4900,Random,Standard Merge Sort,14521
+4900,Random,Hybrid Merge+Insertion Sort,3777
+4900,Reverse Sorted,Standard Merge Sort,12867
+4900,Reverse Sorted,Hybrid Merge+Insertion Sort,3058
+4900,Nearly Sorted,Standard Merge Sort,12714
+4900,Nearly Sorted,Hybrid Merge+Insertion Sort,2904
+5000,Random,Standard Merge Sort,11212
+5000,Random,Hybrid Merge+Insertion Sort,2939
+5000,Reverse Sorted,Standard Merge Sort,10295
+5000,Reverse Sorted,Hybrid Merge+Insertion Sort,2503
+5000,Nearly Sorted,Standard Merge Sort,10874
+5000,Nearly Sorted,Hybrid Merge+Insertion Sort,2475
+5100,Random,Standard Merge Sort,15892
+5100,Random,Hybrid Merge+Insertion Sort,5142
+5100,Reverse Sorted,Standard Merge Sort,15713
+5100,Reverse Sorted,Hybrid Merge+Insertion Sort,4125
+5100,Nearly Sorted,Standard Merge Sort,15803
+5100,Nearly Sorted,Hybrid Merge+Insertion Sort,3248
+5200,Random,Standard Merge Sort,15847
+5200,Random,Hybrid Merge+Insertion Sort,4649
+5200,Reverse Sorted,Standard Merge Sort,13062
+5200,Reverse Sorted,Hybrid Merge+Insertion Sort,2594
+5200,Nearly Sorted,Standard Merge Sort,11371
+5200,Nearly Sorted,Hybrid Merge+Insertion Sort,3048
+5300,Random,Standard Merge Sort,14585
+5300,Random,Hybrid Merge+Insertion Sort,3127
+5300,Reverse Sorted,Standard Merge Sort,11425
+5300,Reverse Sorted,Hybrid Merge+Insertion Sort,2642
+5300,Nearly Sorted,Standard Merge Sort,11646
+5300,Nearly Sorted,Hybrid Merge+Insertion Sort,2493
+5400,Random,Standard Merge Sort,12164
+5400,Random,Hybrid Merge+Insertion Sort,3148
+5400,Reverse Sorted,Standard Merge Sort,11080
+5400,Reverse Sorted,Hybrid Merge+Insertion Sort,2688
+5400,Nearly Sorted,Standard Merge Sort,11562
+5400,Nearly Sorted,Hybrid Merge+Insertion Sort,2558
+5500,Random,Standard Merge Sort,12722
+5500,Random,Hybrid Merge+Insertion Sort,3954
+5500,Reverse Sorted,Standard Merge Sort,14368
+5500,Reverse Sorted,Hybrid Merge+Insertion Sort,3591
+5500,Nearly Sorted,Standard Merge Sort,16153
+5500,Nearly Sorted,Hybrid Merge+Insertion Sort,3331
+5600,Random,Standard Merge Sort,16044
+5600,Random,Hybrid Merge+Insertion Sort,4238
+5600,Reverse Sorted,Standard Merge Sort,15392
+5600,Reverse Sorted,Hybrid Merge+Insertion Sort,3575
+5600,Nearly Sorted,Standard Merge Sort,14919
+5600,Nearly Sorted,Hybrid Merge+Insertion Sort,3202
+5700,Random,Standard Merge Sort,15835
+5700,Random,Hybrid Merge+Insertion Sort,4089
+5700,Reverse Sorted,Standard Merge Sort,15407
+5700,Reverse Sorted,Hybrid Merge+Insertion Sort,4123
+5700,Nearly Sorted,Standard Merge Sort,14421
+5700,Nearly Sorted,Hybrid Merge+Insertion Sort,3903
+5800,Random,Standard Merge Sort,16169
+5800,Random,Hybrid Merge+Insertion Sort,4146
+5800,Reverse Sorted,Standard Merge Sort,14523
+5800,Reverse Sorted,Hybrid Merge+Insertion Sort,3371
+5800,Nearly Sorted,Standard Merge Sort,18085
+5800,Nearly Sorted,Hybrid Merge+Insertion Sort,3616
+5900,Random,Standard Merge Sort,16237
+5900,Random,Hybrid Merge+Insertion Sort,3793
+5900,Reverse Sorted,Standard Merge Sort,15722
+5900,Reverse Sorted,Hybrid Merge+Insertion Sort,3588
+5900,Nearly Sorted,Standard Merge Sort,13591
+5900,Nearly Sorted,Hybrid Merge+Insertion Sort,2690
+6000,Random,Standard Merge Sort,14385
+6000,Random,Hybrid Merge+Insertion Sort,4121
+6000,Reverse Sorted,Standard Merge Sort,14616
+6000,Reverse Sorted,Hybrid Merge+Insertion Sort,3441
+6000,Nearly Sorted,Standard Merge Sort,15647
+6000,Nearly Sorted,Hybrid Merge+Insertion Sort,2878
+6100,Random,Standard Merge Sort,14695
+6100,Random,Hybrid Merge+Insertion Sort,3437
+6100,Reverse Sorted,Standard Merge Sort,13029
+6100,Reverse Sorted,Hybrid Merge+Insertion Sort,3005
+6100,Nearly Sorted,Standard Merge Sort,13939
+6100,Nearly Sorted,Hybrid Merge+Insertion Sort,2723
+6200,Random,Standard Merge Sort,13869
+6200,Random,Hybrid Merge+Insertion Sort,3538
+6200,Reverse Sorted,Standard Merge Sort,14417
+6200,Reverse Sorted,Hybrid Merge+Insertion Sort,3590
+6200,Nearly Sorted,Standard Merge Sort,13837
+6200,Nearly Sorted,Hybrid Merge+Insertion Sort,2758
+6300,Random,Standard Merge Sort,15149
+6300,Random,Hybrid Merge+Insertion Sort,4026
+6300,Reverse Sorted,Standard Merge Sort,15661
+6300,Reverse Sorted,Hybrid Merge+Insertion Sort,4186
+6300,Nearly Sorted,Standard Merge Sort,15827
+6300,Nearly Sorted,Hybrid Merge+Insertion Sort,3295
+6400,Random,Standard Merge Sort,17255
+6400,Random,Hybrid Merge+Insertion Sort,4326
+6400,Reverse Sorted,Standard Merge Sort,15652
+6400,Reverse Sorted,Hybrid Merge+Insertion Sort,3661
+6400,Nearly Sorted,Standard Merge Sort,15753
+6400,Nearly Sorted,Hybrid Merge+Insertion Sort,3487
+6500,Random,Standard Merge Sort,16076
+6500,Random,Hybrid Merge+Insertion Sort,4412
+6500,Reverse Sorted,Standard Merge Sort,16447
+6500,Reverse Sorted,Hybrid Merge+Insertion Sort,3812
+6500,Nearly Sorted,Standard Merge Sort,16519
+6500,Nearly Sorted,Hybrid Merge+Insertion Sort,3615
+6600,Random,Standard Merge Sort,15606
+6600,Random,Hybrid Merge+Insertion Sort,3766
+6600,Reverse Sorted,Standard Merge Sort,15004
+6600,Reverse Sorted,Hybrid Merge+Insertion Sort,3228
+6600,Nearly Sorted,Standard Merge Sort,15055
+6600,Nearly Sorted,Hybrid Merge+Insertion Sort,3154
+6700,Random,Standard Merge Sort,15286
+6700,Random,Hybrid Merge+Insertion Sort,5750
+6700,Reverse Sorted,Standard Merge Sort,14835
+6700,Reverse Sorted,Hybrid Merge+Insertion Sort,3282
+6700,Nearly Sorted,Standard Merge Sort,14278
+6700,Nearly Sorted,Hybrid Merge+Insertion Sort,2911
+6800,Random,Standard Merge Sort,17611
+6800,Random,Hybrid Merge+Insertion Sort,4422
+6800,Reverse Sorted,Standard Merge Sort,14568
+6800,Reverse Sorted,Hybrid Merge+Insertion Sort,3324
+6800,Nearly Sorted,Standard Merge Sort,14476
+6800,Nearly Sorted,Hybrid Merge+Insertion Sort,2942
+6900,Random,Standard Merge Sort,15829
+6900,Random,Hybrid Merge+Insertion Sort,6198
+6900,Reverse Sorted,Standard Merge Sort,15624
+6900,Reverse Sorted,Hybrid Merge+Insertion Sort,3669
+6900,Nearly Sorted,Standard Merge Sort,14791
+6900,Nearly Sorted,Hybrid Merge+Insertion Sort,3279
+7000,Random,Standard Merge Sort,20530
+7000,Random,Hybrid Merge+Insertion Sort,4845
+7000,Reverse Sorted,Standard Merge Sort,17976
+7000,Reverse Sorted,Hybrid Merge+Insertion Sort,3544
+7000,Nearly Sorted,Standard Merge Sort,14974
+7000,Nearly Sorted,Hybrid Merge+Insertion Sort,3020
+7100,Random,Standard Merge Sort,18613
+7100,Random,Hybrid Merge+Insertion Sort,5360
+7100,Reverse Sorted,Standard Merge Sort,16005
+7100,Reverse Sorted,Hybrid Merge+Insertion Sort,3455
+7100,Nearly Sorted,Standard Merge Sort,16674
+7100,Nearly Sorted,Hybrid Merge+Insertion Sort,4344
+7200,Random,Standard Merge Sort,18410
+7200,Random,Hybrid Merge+Insertion Sort,3974
+7200,Reverse Sorted,Standard Merge Sort,15646
+7200,Reverse Sorted,Hybrid Merge+Insertion Sort,3514
+7200,Nearly Sorted,Standard Merge Sort,21594
+7200,Nearly Sorted,Hybrid Merge+Insertion Sort,6124
+7300,Random,Standard Merge Sort,17628
+7300,Random,Hybrid Merge+Insertion Sort,4229
+7300,Reverse Sorted,Standard Merge Sort,16179
+7300,Reverse Sorted,Hybrid Merge+Insertion Sort,3701
+7300,Nearly Sorted,Standard Merge Sort,16000
+7300,Nearly Sorted,Hybrid Merge+Insertion Sort,3099
+7400,Random,Standard Merge Sort,16794
+7400,Random,Hybrid Merge+Insertion Sort,4099
+7400,Reverse Sorted,Standard Merge Sort,15655
+7400,Reverse Sorted,Hybrid Merge+Insertion Sort,3634
+7400,Nearly Sorted,Standard Merge Sort,17378
+7400,Nearly Sorted,Hybrid Merge+Insertion Sort,3960
+7500,Random,Standard Merge Sort,20434
+7500,Random,Hybrid Merge+Insertion Sort,5227
+7500,Reverse Sorted,Standard Merge Sort,21203
+7500,Reverse Sorted,Hybrid Merge+Insertion Sort,4993
+7500,Nearly Sorted,Standard Merge Sort,21104
+7500,Nearly Sorted,Hybrid Merge+Insertion Sort,4753
+7600,Random,Standard Merge Sort,26344
+7600,Random,Hybrid Merge+Insertion Sort,5638
+7600,Reverse Sorted,Standard Merge Sort,20413
+7600,Reverse Sorted,Hybrid Merge+Insertion Sort,4635
+7600,Nearly Sorted,Standard Merge Sort,21105
+7600,Nearly Sorted,Hybrid Merge+Insertion Sort,4120
+7700,Random,Standard Merge Sort,20252
+7700,Random,Hybrid Merge+Insertion Sort,5355
+7700,Reverse Sorted,Standard Merge Sort,16161
+7700,Reverse Sorted,Hybrid Merge+Insertion Sort,4433
+7700,Nearly Sorted,Standard Merge Sort,19884
+7700,Nearly Sorted,Hybrid Merge+Insertion Sort,4239
+7800,Random,Standard Merge Sort,20078
+7800,Random,Hybrid Merge+Insertion Sort,5426
+7800,Reverse Sorted,Standard Merge Sort,19702
+7800,Reverse Sorted,Hybrid Merge+Insertion Sort,4522
+7800,Nearly Sorted,Standard Merge Sort,17994
+7800,Nearly Sorted,Hybrid Merge+Insertion Sort,3873
+7900,Random,Standard Merge Sort,17645
+7900,Random,Hybrid Merge+Insertion Sort,5241
+7900,Reverse Sorted,Standard Merge Sort,17139
+7900,Reverse Sorted,Hybrid Merge+Insertion Sort,4147
+7900,Nearly Sorted,Standard Merge Sort,17523
+7900,Nearly Sorted,Hybrid Merge+Insertion Sort,3770
+8000,Random,Standard Merge Sort,18912
+8000,Random,Hybrid Merge+Insertion Sort,5948
+8000,Reverse Sorted,Standard Merge Sort,17022
+8000,Reverse Sorted,Hybrid Merge+Insertion Sort,4271
+8000,Nearly Sorted,Standard Merge Sort,17522
+8000,Nearly Sorted,Hybrid Merge+Insertion Sort,5608
+8100,Random,Standard Merge Sort,20725
+8100,Random,Hybrid Merge+Insertion Sort,6429
+8100,Reverse Sorted,Standard Merge Sort,17485
+8100,Reverse Sorted,Hybrid Merge+Insertion Sort,4436
+8100,Nearly Sorted,Standard Merge Sort,19280
+8100,Nearly Sorted,Hybrid Merge+Insertion Sort,4565
+8200,Random,Standard Merge Sort,18622
+8200,Random,Hybrid Merge+Insertion Sort,5483
+8200,Reverse Sorted,Standard Merge Sort,17185
+8200,Reverse Sorted,Hybrid Merge+Insertion Sort,4687
+8200,Nearly Sorted,Standard Merge Sort,17373
+8200,Nearly Sorted,Hybrid Merge+Insertion Sort,4451
+8300,Random,Standard Merge Sort,18453
+8300,Random,Hybrid Merge+Insertion Sort,5458
+8300,Reverse Sorted,Standard Merge Sort,18001
+8300,Reverse Sorted,Hybrid Merge+Insertion Sort,5104
+8300,Nearly Sorted,Standard Merge Sort,18043
+8300,Nearly Sorted,Hybrid Merge+Insertion Sort,4590
+8400,Random,Standard Merge Sort,19627
+8400,Random,Hybrid Merge+Insertion Sort,5664
+8400,Reverse Sorted,Standard Merge Sort,18516
+8400,Reverse Sorted,Hybrid Merge+Insertion Sort,5115
+8400,Nearly Sorted,Standard Merge Sort,18499
+8400,Nearly Sorted,Hybrid Merge+Insertion Sort,4478
+8500,Random,Standard Merge Sort,19378
+8500,Random,Hybrid Merge+Insertion Sort,5834
+8500,Reverse Sorted,Standard Merge Sort,17542
+8500,Reverse Sorted,Hybrid Merge+Insertion Sort,4640
+8500,Nearly Sorted,Standard Merge Sort,18207
+8500,Nearly Sorted,Hybrid Merge+Insertion Sort,4574
+8600,Random,Standard Merge Sort,20301
+8600,Random,Hybrid Merge+Insertion Sort,5611
+8600,Reverse Sorted,Standard Merge Sort,17795
+8600,Reverse Sorted,Hybrid Merge+Insertion Sort,4691
+8600,Nearly Sorted,Standard Merge Sort,18951
+8600,Nearly Sorted,Hybrid Merge+Insertion Sort,4725
+8700,Random,Standard Merge Sort,19307
+8700,Random,Hybrid Merge+Insertion Sort,5654
+8700,Reverse Sorted,Standard Merge Sort,18939
+8700,Reverse Sorted,Hybrid Merge+Insertion Sort,4709
+8700,Nearly Sorted,Standard Merge Sort,18573
+8700,Nearly Sorted,Hybrid Merge+Insertion Sort,4636
+8800,Random,Standard Merge Sort,21275
+8800,Random,Hybrid Merge+Insertion Sort,5662
+8800,Reverse Sorted,Standard Merge Sort,18509
+8800,Reverse Sorted,Hybrid Merge+Insertion Sort,5004
+8800,Nearly Sorted,Standard Merge Sort,19914
+8800,Nearly Sorted,Hybrid Merge+Insertion Sort,6080
+8900,Random,Standard Merge Sort,20576
+8900,Random,Hybrid Merge+Insertion Sort,6513
+8900,Reverse Sorted,Standard Merge Sort,19558
+8900,Reverse Sorted,Hybrid Merge+Insertion Sort,6300
+8900,Nearly Sorted,Standard Merge Sort,20350
+8900,Nearly Sorted,Hybrid Merge+Insertion Sort,4678
+9000,Random,Standard Merge Sort,20861
+9000,Random,Hybrid Merge+Insertion Sort,5755
+9000,Reverse Sorted,Standard Merge Sort,21019
+9000,Reverse Sorted,Hybrid Merge+Insertion Sort,5461
+9000,Nearly Sorted,Standard Merge Sort,20493
+9000,Nearly Sorted,Hybrid Merge+Insertion Sort,4723
+9100,Random,Standard Merge Sort,21722
+9100,Random,Hybrid Merge+Insertion Sort,6573
+9100,Reverse Sorted,Standard Merge Sort,20468
+9100,Reverse Sorted,Hybrid Merge+Insertion Sort,4977
+9100,Nearly Sorted,Standard Merge Sort,23048
+9100,Nearly Sorted,Hybrid Merge+Insertion Sort,5183
+9200,Random,Standard Merge Sort,21266
+9200,Random,Hybrid Merge+Insertion Sort,5804
+9200,Reverse Sorted,Standard Merge Sort,19201
+9200,Reverse Sorted,Hybrid Merge+Insertion Sort,5793
+9200,Nearly Sorted,Standard Merge Sort,27280
+9200,Nearly Sorted,Hybrid Merge+Insertion Sort,6335
+9300,Random,Standard Merge Sort,21171
+9300,Random,Hybrid Merge+Insertion Sort,6722
+9300,Reverse Sorted,Standard Merge Sort,19855
+9300,Reverse Sorted,Hybrid Merge+Insertion Sort,5063
+9300,Nearly Sorted,Standard Merge Sort,20635
+9300,Nearly Sorted,Hybrid Merge+Insertion Sort,4818
+9400,Random,Standard Merge Sort,21132
+9400,Random,Hybrid Merge+Insertion Sort,6230
+9400,Reverse Sorted,Standard Merge Sort,20150
+9400,Reverse Sorted,Hybrid Merge+Insertion Sort,5043
+9400,Nearly Sorted,Standard Merge Sort,39182
+9400,Nearly Sorted,Hybrid Merge+Insertion Sort,4984
+9500,Random,Standard Merge Sort,21400
+9500,Random,Hybrid Merge+Insertion Sort,6326
+9500,Reverse Sorted,Standard Merge Sort,20518
+9500,Reverse Sorted,Hybrid Merge+Insertion Sort,5328
+9500,Nearly Sorted,Standard Merge Sort,20408
+9500,Nearly Sorted,Hybrid Merge+Insertion Sort,4890
+9600,Random,Standard Merge Sort,21643
+9600,Random,Hybrid Merge+Insertion Sort,6259
+9600,Reverse Sorted,Standard Merge Sort,19921
+9600,Reverse Sorted,Hybrid Merge+Insertion Sort,5643
+9600,Nearly Sorted,Standard Merge Sort,21012
+9600,Nearly Sorted,Hybrid Merge+Insertion Sort,4970
+9700,Random,Standard Merge Sort,22175
+9700,Random,Hybrid Merge+Insertion Sort,6188
+9700,Reverse Sorted,Standard Merge Sort,20792
+9700,Reverse Sorted,Hybrid Merge+Insertion Sort,5824
+9700,Nearly Sorted,Standard Merge Sort,20531
+9700,Nearly Sorted,Hybrid Merge+Insertion Sort,4987
+9800,Random,Standard Merge Sort,22061
+9800,Random,Hybrid Merge+Insertion Sort,6222
+9800,Reverse Sorted,Standard Merge Sort,20332
+9800,Reverse Sorted,Hybrid Merge+Insertion Sort,5417
+9800,Nearly Sorted,Standard Merge Sort,21064
+9800,Nearly Sorted,Hybrid Merge+Insertion Sort,5754
+9900,Random,Standard Merge Sort,22222
+9900,Random,Hybrid Merge+Insertion Sort,6285
+9900,Reverse Sorted,Standard Merge Sort,22857
+9900,Reverse Sorted,Hybrid Merge+Insertion Sort,5255
+9900,Nearly Sorted,Standard Merge Sort,22363
+9900,Nearly Sorted,Hybrid Merge+Insertion Sort,5307
+10000,Random,Standard Merge Sort,23443
+10000,Random,Hybrid Merge+Insertion Sort,6327
+10000,Reverse Sorted,Standard Merge Sort,21646
+10000,Reverse Sorted,Hybrid Merge+Insertion Sort,5702
+10000,Nearly Sorted,Standard Merge Sort,21923
+10000,Nearly Sorted,Hybrid Merge+Insertion Sort,5080
